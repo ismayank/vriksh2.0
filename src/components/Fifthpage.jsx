@@ -12,7 +12,7 @@ const Fifthpage = () => {
       <div class="text-left mx-[1.2rem] sm:mt-20 sm:ml-20">
   <div class="sm:flex sm:items-center ml-5 mr-8 sm:mr-10 sm:ml-5 sm:mb-5">
     <div class="sm:mb-0">
-      <h1 class="font-inter text-xs sm:text-4xl text-left sm:text-center font-semibold sm:leading-9 ml-1 sm:ml-0">
+      <h1 class="font-interBold text-xs sm:text-4xl text-left sm:text-center font-semibold sm:leading-9 ml-1 sm:ml-0">
         Trees in the forest
       </h1>
       <div class="relative inline-block">
@@ -28,7 +28,7 @@ const Fifthpage = () => {
       </div>
     </div>
     <div class="mr-0 ml-0 sm:mt-0 sm:ml-40">
-      <h1 class="font-inter text-xs sm:text-4xl text-left sm:text-center font-semibold sm:leading-9 ml-1 sm:ml-0">
+      <h1 class="font-interBold text-xs sm:text-4xl text-left sm:text-center font-semibold sm:leading-9 ml-1 sm:ml-0">
         Trees this month
       </h1>
       <div class="relative inline-block">
