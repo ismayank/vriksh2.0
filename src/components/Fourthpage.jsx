@@ -20,7 +20,7 @@ const Fourthpage = () => {
         <h3 className="font-jost text-sm sm:text-4xl font-semibold leading-10 text-center sm:text-none ">
           Number of trees cut down vs planted every month
         </h3>
-        <img src={bar1} className="absolute ml-[7.5rem] mt-8 w-[1.3rem] sm:w-[3.7rem] sm:ml-32 sm:mt-16" />
+        <img src={bar1} className="absolute ml-[7.5rem] mt-[2.15rem] w-[1.3rem] sm:w-[3.7rem] sm:ml-32 sm:mt-16" />
         <img src={bar2} className="absolute ml-[12rem] mt-[6rem] w-[1.4rem] sm:w-[3.6rem] sm:ml-80 sm:mt-64" />
         <img src={leftEnd} alt="left-end" className="absolute top-[3.6rem] sm:top-[8rem] right-[14rem] sm:right-[34rem] w-6 sm:w-3 h-[10rem] sm:h-[26rem]" />
         <img src={rightEnd} alt="right-end" className="absolute sm:top-[33rem] top-[13.1rem] left-[5rem] right-[7rem] sm:left-[0.3rem] sm:right-[2rem] w-[12rem] sm:w-[30rem] h-3 sm:h-9" />

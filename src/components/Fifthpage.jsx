@@ -20,8 +20,8 @@ const Fifthpage = () => {
         
         <img src={bar1} class="relative mt-4 sm:mt-10 sm:top-0 sm:left-0 z-10 w-[20rem] sm:w-auto" />
       
-        <img src={bar2} class="absolute top-4 sm:top-10 left-0 z-20 w-[9rem] sm:w-auto" />
-        <div class="relative top-[-1.6rem] sm:top-[-2.5rem] left-5 text-sm sm:text-xl font-inter font-semibold xm:font-bold text-black z-30">
+        <img src={bar2} class="absolute top-4 sm:top-10 left-0 z-20 w-[8.6rem] sm:w-auto" />
+        <div class="relative top-[-1.6rem] sm:top-[-2.5rem] left-5 text-sm sm:text-xl font-interBold font-semibold xm:font-bold text-black z-30">
           1334567
         </div>
         
@@ -34,8 +34,8 @@ const Fifthpage = () => {
       <div class="relative inline-block">
         
         <img src={bar1} class="relative mt-3 sm:mt-10 top-0 left-0 z-10 w-[20rem] sm:w-auto" />
-        <img src={bar3} class="absolute top-[0.75rem] sm:top-10 left-0 z-20 w-[15rem] sm:w-auto" />
-        <div class="relative top-[-1.6rem] sm:top-[-2.5rem] left-5 text-sm sm:text-xl font-inter font-semibold xm:font-bold text-black z-30">
+        <img src={bar3} class="absolute top-[0.75rem] sm:top-10 left-0 z-20 w-[14.5rem] sm:w-auto" />
+        <div class="relative top-[-1.6rem] sm:top-[-2.5rem] left-5 text-sm sm:text-xl font-interBold font-semibold xm:font-bold text-black z-30">
           1294338
         </div>
       </div>

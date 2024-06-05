@@ -9,7 +9,7 @@ export default {
         jostNormal: ["Jost-Normal"],
         interBold: ["inter-Bold"],
         interNormal: ["inter-Normal"],
-        jost: ['Jost', 'sans-serif'],
+        jost: ['Jost'],
         inter: ['Inter'],
       },
       colors: {
