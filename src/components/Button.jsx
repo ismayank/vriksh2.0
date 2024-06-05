@@ -1,6 +1,6 @@
 import React from 'react';
-import arrowImage from '../resources/Vector.svg';
-import arrowImage2 from '../resources/Vector1.svg';
+import arrowImage from '../resources/arrow.svg';
+import arrowImage2 from '../resources/arrow1.svg';
 
 const Button = () => {
   return (
